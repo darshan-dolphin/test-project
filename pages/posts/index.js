@@ -7,9 +7,6 @@ export default function Post() {
             <Link href="/posts/first-post">
                 <a>First Post</a>
             </Link>
-            <Link href="/posts/edit/1">
-                <a>Edit Post</a>
-            </Link>
             <Link href="/posts/edit">
                 <a>Edit Index</a>
             </Link>
