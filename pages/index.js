@@ -16,6 +16,8 @@ export default function Home() {
         <Link href="/posts">
           <a>Posts</a>
         </Link>
+        <hr align="left" width="300px;" />
+        <br />
       </Layout>
       {/* 
       <main className={styles.main}>
